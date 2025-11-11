@@ -36,8 +36,8 @@ Estudante de Defesa Cibernetica no Polo Estacio Piumhi MG . Formação tecnica e
 
 # Calculadora Científica
 
-![Calculadora Científica](https://raw.githubusercontent.com/mourafuseti/calculadora_cientifica/blob/main/telacientifica.png)  
-*Interface moderna, tema escuro e funções avançadas"
+![Calculadora Científica](https://raw.githubusercontent.com/mourafuseti/calculadora_cientifica/main/telacientifica.png)  
+*Interface moderna, tema escuro e funções avançadas*
 
 Uma **calculadora científica completa** desenvolvida em **Python** com a biblioteca **`customtkinter`**. Possui design responsivo, botões grandes, hover effects e suporte a todas as operações científicas essenciais.
 
