@@ -125,8 +125,8 @@ calculadora-em-python/
 │
 ├── calculadora_cientifica.py   # Código principal
 ├── tela_cientifica.png         # Captura de tela
-├── README.md                   # Este arquivo
-└── requirements.txt            # Dependências
+└── README.md                   # Este arquivo
+
 ```
 
 ---
